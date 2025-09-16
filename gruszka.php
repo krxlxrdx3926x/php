@@ -6,6 +6,9 @@ echo $_GET["miecz"] . "<br>";
 echo $_GET["osiagniecia"] . "<br>";
 echo $_GET["ocena"] . "<br>";
 
+echo $_GET["postac"];
+
+
 
 
 ?> 
