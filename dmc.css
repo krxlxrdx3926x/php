@@ -1,0 +1,19 @@
+body {
+  background-color: rgba(89, 89, 230, 0.459);
+}
+
+img {
+  padding-right: 237px;
+  border-style: dashed solid;
+}
+
+p {
+  color: rgb(1, 106, 243);
+  font-size: 5em;
+  font-style: italic;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#postac {
+  border: dashed;
+}
