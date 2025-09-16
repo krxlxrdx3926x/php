@@ -8,7 +8,4 @@ echo $_GET["ocena"] . "<br>";
 
 echo $_GET["postac"];
 
-
-
-
 ?> 
